@@ -1,84 +1,74 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
+  FirstName: Niels Kjær
+  LastName: Ersbøll
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: +45 30 64 08 18
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: niels@ersboell.dk
     - Icon: fas fa-globe
-      Info: ines-almeida.com
+      Info: niels.ersboell.dk
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Denmark
 
 Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: Technical University of Denmark
+    Place: Lyngby, Denmark
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: Student Programmer
+        Date: 2018 - present
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
+          - Statistical analysis of High Tech Summit participants
+          - Development of special partially interactive exercises for the DTU course 02405 Probability.
+          - Digital Ambasador course for the danish "Erhvervsministeriet". Working as technical designer of course website and teaching assistant
+        Badges: ['Python', 'R', 'LaTeX']
+      - Title: Office assistant
+        Date: 2017 - 2018
         Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+          - Space-time analysis of multiple sclerosis using BiomedWare SpaceStat.
+          - Helicopter emergency medical services, data management (reformatting coordinate systems. Degree-Decimal-Minutes to Decimal Degrees to UTM). Developing an R-function that draws flight routes for individual missions on a map of Denmark.
+          - Sociolance - deriving a database from hand-written forms of social records of contacts with socially vulnarable individuals.
+        Badges: ['SQL', 'Python', 'BiomedWare SpaceStat']
+  - Employer: Polyteknisk Forening
+    Place: Lyngby, Denmark
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Rusvejleder
+        Date: 2018-2019
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
-    Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+          - Rusvejleder, the common term at DTU is Vector.
+          - Experience for problem solving and management of major events for new students.
+          - Education in social skills and public speaking.
+        Badges: ['Social skills']
+      - Title: KABS
+        Date: 2020-2021
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Coordinator of the Bachelor Studystart for Bsc. Artificial Intelligence and Data Science. Experince includes management of 40+ vectors each with 10-12 new students.
+          - Public speaking.
+          - s
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: BSc in Artificial Intelligence and Data Science
+    Place: Technical University of Denmark
+    Date: 2018 - present
+    Details: Specialised in data analysis 
 
 Skills:
   - Family: Programming
     Items:
       - Python
-      - HTML (including Jinja)
-      - Javascript
-      - CSS
-      - SASS
-      - SQL
-      - C#
-      - Bash
+      - C/C++
       - MATLAB
+      - Bash
+      - Java
+      - R
+      - SAS
+      - SQL
   - Family: Frameworks
     Items:
-      - Django
+      - pytorch
       - Flask
       - Hugo
       - React
@@ -86,31 +76,23 @@ Skills:
     Items:
       - Git
       - Docker
-      - Jenkins
-      - AWS
   - Family: Misc
     Items:
-      - Adobe Tools
       - LaTeX
 
 Languages:
-  - Name: Portuguese
+  - Name: Danish
     Level: Native
   - Name: English
     Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
 
-Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+# Diplomas:
+#   - ISTQB Tester Certification (2019)
+#   - English Cambridge CAE (2009)
 
 Interests:
-  - Bouldering
+  - Electronics
+  - Reading
   - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+  - Audio
+  - Programming

@@ -1,5 +1,5 @@
-baseURL = "http://www2.compute.dtu.dk/~nker"
-languageCode = "en-uk"
+baseURL = "https://example.com/"
+languageCode = "en-us"
 theme = "almeida-cv"
 title = "Niels Kjær Ersbøll"
 
