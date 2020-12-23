@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://people.compute.dtu.dk/nker/"
 languageCode = "en-dk"
 theme = "almeida-cv"
 title = "Niels Kjær Ersbøll"

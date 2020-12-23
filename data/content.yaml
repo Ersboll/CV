@@ -6,7 +6,7 @@ BasicInfo:
     - Icon: fas fa-phone
       Info: +45 30 64 08 18
     - Icon: fas fa-envelope
-      Info: niels@ersboell.dk
+      Info: nker@dtu.dk
     - Icon: fas fa-globe
       Info: niels.ersboell.dk
     - Icon: fas fa-map-marker-alt
@@ -23,7 +23,7 @@ Experience:
         Details:
           - Statistical analysis of High Tech Summit participants
           - Development of special partially interactive exercises for the DTU course 02405 Probability.
-          - Digital Ambasador course for the danish "Erhvervsministeriet". Working as technical designer of course website and teaching assistant
+          - Digital Ambasador course for the Danish "Erhvervsministeriet". Working as technical designer of course website and teaching assistant
         Badges: ["Python", "R", "LaTeX"]
       - Title: Office assistant
         Date: 2017 - 2018
@@ -52,10 +52,10 @@ Experience:
         Badges: ["Social skills", "Management", "COVID-19"]
 
 Education:
-  - Course: BSc in Artificial Intelligence and Data Science
+  - Course: (BSc) Studying Artificial Intelligence and Data Science
     Place: Technical University of Denmark
     Date: 2018 - Present
-    Details: Specialised in data analysis
+    Details: Still studying.
 
 Skills:
   - Family: Programming
