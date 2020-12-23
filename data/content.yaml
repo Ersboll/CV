@@ -19,19 +19,19 @@ Experience:
     Place: Lyngby, Denmark
     Positions:
       - Title: Student Programmer
-        Date: 2018 - present
+        Date: 2018 - Present
         Details:
           - Statistical analysis of High Tech Summit participants
           - Development of special partially interactive exercises for the DTU course 02405 Probability.
           - Digital Ambasador course for the danish "Erhvervsministeriet". Working as technical designer of course website and teaching assistant
-        Badges: ['Python', 'R', 'LaTeX']
+        Badges: ["Python", "R", "LaTeX"]
       - Title: Office assistant
         Date: 2017 - 2018
         Details:
           - Space-time analysis of multiple sclerosis using BiomedWare SpaceStat.
           - Helicopter emergency medical services, data management (reformatting coordinate systems. Degree-Decimal-Minutes to Decimal Degrees to UTM). Developing an R-function that draws flight routes for individual missions on a map of Denmark.
           - Sociolance - deriving a database from hand-written forms of social records of contacts with socially vulnarable individuals.
-        Badges: ['SQL', 'Python', 'BiomedWare SpaceStat']
+        Badges: ["SQL", "Python", "BiomedWare SpaceStat"]
   - Employer: Polyteknisk Forening
     Place: Lyngby, Denmark
     Positions:
@@ -40,20 +40,22 @@ Experience:
         Details:
           - Rusvejleder, the common term at DTU is Vector.
           - Experience for problem solving and management of major events for new students.
-          - Education in social skills and public speaking.
-        Badges: ['Social skills']
+          - Education in social skills and public speaking by Mathias Bruhn.
+        Badges: ["Social skills"]
       - Title: KABS
         Date: 2020-2021
         Details:
           - Coordinator of the Bachelor Studystart for Bsc. Artificial Intelligence and Data Science. Experince includes management of 40+ vectors each with 10-12 new students.
-          - Public speaking.
-          - s
+          - Public speaking with +300 attendees.
+          - Responsibility for a succesfull studystart at DTU whilst the COVID-19 Pandemic wreaked havoc.
+          - Upgrade of skills in public speaking and Charismatiuc leadership by Mathias Bruhn
+        Badges: ["Social skills", "Management", "COVID-19"]
 
 Education:
   - Course: BSc in Artificial Intelligence and Data Science
     Place: Technical University of Denmark
-    Date: 2018 - present
-    Details: Specialised in data analysis 
+    Date: 2018 - Present
+    Details: Specialised in data analysis
 
 Skills:
   - Family: Programming
@@ -66,12 +68,15 @@ Skills:
       - R
       - SAS
       - SQL
+      - Javascript
   - Family: Frameworks
     Items:
       - pytorch
       - Flask
       - Hugo
       - React
+      - Node.JS
+      - MySQL
   - Family: Developer Tools
     Items:
       - Git
@@ -84,7 +89,7 @@ Languages:
   - Name: Danish
     Level: Native
   - Name: English
-    Level: C2
+    Level: Extremely fluent
 
 # Diplomas:
 #   - ISTQB Tester Certification (2019)

@@ -1,13 +1,13 @@
 baseURL = "https://example.com/"
-languageCode = "en-us"
+languageCode = "en-dk"
 theme = "almeida-cv"
 title = "Niels Kjær Ersbøll"
 
 [params]
 colorDark = "#666"
 colorLight = "#fff"
-colorPageBackground = "#ddd"
-colorPrimary = "#e3bfb8"
+colorPageBackground = "#F5F0F2"
+colorPrimary = "#CC044D"
 colorPrimaryText = "#fff"
 colorRightColumnBackground = "#f5f5f5"
 colorSecondary = "#aaa"
