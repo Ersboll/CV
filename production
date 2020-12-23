@@ -1,4 +1,4 @@
 #!/bin/bash
 hugo
 # ssh nker@thinlinc.compute.dtu.dk "rm -r /www/home/nker/public_html/*"
-scp -r public/* nker@thinlinc.compute.dtu.dk:/www/home/nker/public_html
+rsync -r public/* nker@thinlinc.compute.dtu.dk:/www/home/nker/public_html
