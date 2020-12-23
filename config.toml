@@ -1,0 +1,14 @@
+baseURL = "http://www2.compute.dtu.dk/~nker"
+languageCode = "en-uk"
+theme = "almeida-cv"
+title = "Niels Kjær Ersbøll"
+
+[params]
+colorDark = "#666"
+colorLight = "#fff"
+colorPageBackground = "#ddd"
+colorPrimary = "#e3bfb8"
+colorPrimaryText = "#fff"
+colorRightColumnBackground = "#f5f5f5"
+colorSecondary = "#aaa"
+pages = 1
