@@ -8,16 +8,16 @@
     height: 100%;
     padding: 3rem 4rem;
 
-    // @media screen {
-    //     &::after {
-    //         content: '2020 © by Inês Almeida   |   ines-almeida.com';
-    //         height: 4rem;
-    //         width: 100%;
-    //         position: absolute;
-    //         bottom: 0.5rem;
-    //         color: darken($color-white, 10%);
-    //     }
-    // }
+    @media screen {
+      &::after {
+        content: "Niels Kjær Ersbøll 2020";
+        height: 4rem;
+        width: 100%;
+        position: absolute;
+        bottom: 0.5rem;
+        color: darken($color-white, 10%);
+      }
+    }
   }
 
   &__right {
